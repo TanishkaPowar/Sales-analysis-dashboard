@@ -48,3 +48,6 @@ A detailed matrix of profit by sub-category and region with total aggregation.
 🧭 Conclusion
 
 This dashboard provides a comprehensive, interactive overview of sales and profit performance. By translating raw sales data into actionable insights, it enables faster and more informed business decisions to improve profitability and customer targeting.
+
+Screentshot
+Dashboard looks like this -
